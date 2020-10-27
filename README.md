@@ -3,7 +3,7 @@ Python script for muting MS Teams.
 
 # Installation
 
-`xdotools` is required for this script to work.
+`xdotools` and `wmctrl` is required for this script to work.
 Download this script and run it.
 
 # Usage
